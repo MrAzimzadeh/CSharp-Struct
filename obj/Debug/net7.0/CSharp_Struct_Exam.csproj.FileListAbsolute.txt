@@ -1,0 +1,15 @@
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\bin\Debug\net7.0\CSharp_Struct_Exam.exe
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\bin\Debug\net7.0\CSharp_Struct_Exam.deps.json
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\bin\Debug\net7.0\CSharp_Struct_Exam.runtimeconfig.json
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\bin\Debug\net7.0\CSharp_Struct_Exam.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\bin\Debug\net7.0\CSharp_Struct_Exam.pdb
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.csproj.AssemblyReference.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.AssemblyInfoInputs.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.AssemblyInfo.cs
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.csproj.CoreCompileInputs.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\refint\CSharp_Struct_Exam.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.pdb
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\CSharp_Struct_Exam.genruntimeconfig.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\CSharp_Struct\CSharp_Struct_Exam\obj\Debug\net7.0\ref\CSharp_Struct_Exam.dll
